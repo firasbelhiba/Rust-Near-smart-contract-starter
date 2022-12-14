@@ -11,6 +11,7 @@ node_modules
 
 # keys
 /templates/react/neardev
+/target
 
 # testing
 /coverage
