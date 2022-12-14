@@ -1,0 +1,1 @@
+/home/firas/Documents/Near\ education/rustNearSmartContract/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/firas/Documents/Near\ education/rustNearSmartContract/contract/src/lib.rs
